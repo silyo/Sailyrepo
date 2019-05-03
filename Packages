@@ -1,15 +1,14 @@
 Package: com.ShadowStonk.jw.SailyInstaller_0.1_iphoneos-arm
 Version: 0.1
-Section: Addons
-Maintainer: CydiaSaurikStar
-Depends: firmware (>11.0)
 Architecture: iphoneos-arm
-Filename: ./debs/SailyInstaller.deb
+Maintainer: ShadowStonk <irongolem2006@gmail.com>
+Depends: firmware (>=11.0)
+Filename: debs//SailyInstaller.deb
 Size: 40053932
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+MD5sum: 0d559ce16e77946d30808cfdfebcd375
 SHA1: 48eb175a2889d54359530146bc5c7d2950a25e4b
 SHA256: 3d17ec4991a926e52ae7141d7d41993e57a3581fbca4d5f0fcdc631fa165cdbe
-Description: Saily Package Manager Installer.
+Section: Tweaks
+Description: Saily Installer Early Release (use at own risk)
+Author: ShadowStonk <irongolem2006@gmail.com>
 Name: Saily Installer (Early Release)
-Author: CydiaSaurikStar
-Depiction: nil
