@@ -4,7 +4,7 @@ Section: Addons
 Maintainer: CydiaSaurikStar
 Depends: firmware (>11.0)
 Architecture: iphoneos-arm
-Filename: ./debs/SailyInstaller.deb
+Filename: /debs/SailyInstaller.deb
 Size: 40053932
 MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
 SHA1: 48eb175a2889d54359530146bc5c7d2950a25e4b
