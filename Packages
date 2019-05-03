@@ -1,6 +1,6 @@
 Package: com.ShadowStonk.jw.SailyInstaller_0.1_iphoneos-arm
 Version: 0.1
-Section: Addons
+Section: Tweaks
 Maintainer: CydiaSaurikStar
 Depends: firmware (>11.0)
 Architecture: iphoneos-arm
