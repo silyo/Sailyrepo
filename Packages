@@ -5,10 +5,10 @@ Maintainer: ShadowStonk <irongolem2006@gmail.com>
 Depends: firmware (>=11.0)
 Filename: debs//SailyInstaller.deb
 Size: 40053932
-MD5sum: 0d559ce16e77946d30808cfdfebcd375
-SHA1: 48eb175a2889d54359530146bc5c7d2950a25e4b
-SHA256: 3d17ec4991a926e52ae7141d7d41993e57a3581fbca4d5f0fcdc631fa165cdbe
-Section: Tweaks
+MD5sum: ab5d45b9d19d2e1f6de3ef8a9a43aa0a
+SHA1: 387e758ca8d4b89681735e558b68965f484ca033
+SHA256: e078bc2e19305bf2d57a3f311c8ee1b86784dc7bdbb6b0d92cd8125d3786f61d
+Section: Addons
 Description: Saily Installer Early Release (use at own risk) Follow me on twitter @CydiaSaurikStar
 Author: ShadowStonk <irongolem2006@gmail.com>
 Name: Saily Installer (Early Release)
