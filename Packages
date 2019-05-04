@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: ShadowStonk <irongolem2006@gmail.com>
 Depends: firmware (>=11.0)
 Filename: debs//SailyInstaller.deb
-Size: 40053932
+Size: 40031710
 MD5sum: ab5d45b9d19d2e1f6de3ef8a9a43aa0a
 SHA1: 387e758ca8d4b89681735e558b68965f484ca033
 SHA256: e078bc2e19305bf2d57a3f311c8ee1b86784dc7bdbb6b0d92cd8125d3786f61d
