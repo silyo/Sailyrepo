@@ -1,0 +1,11 @@
+{
+  "name": "SailyTest",
+  "version": "0.1.5",
+  "description": "test.",
+  "main": "index.html",
+  "author": "someone",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
