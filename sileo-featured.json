@@ -6,7 +6,7 @@
     {
         "url": "https://raw.githubusercontent.com/sukarodo/Sidia/master/assets/Banners/RepoHeader.png",
         "title": "Sample Package",
-        "package": "com.sukarodo.samplepackage",
+        "package": "com.ShadowStonk.jw.SailyInstaller",
         "hideShadow": false
     }
   ]
