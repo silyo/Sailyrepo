@@ -15,3 +15,21 @@ Description: Saily Package Manager Installer. USE AT OWN RISK THIS IS AN EARLY R
 Name: Saily Installer (Early Release)
 Author: ShadowStonk
 Depiction: nil
+
+Package: com.ShadowStonk.jw.testwidget
+Version: 0.0.1b1
+Section: Widgets
+Maintainer: ShadowStonk
+Depends: firmware (>11.0)
+Architecture: iphoneos-arm
+Filename: TestWidget.deb
+Size: 932
+MD5sum: 454a87c910765203a262cdcb9edd289f
+SHA1: d39a5e55b56dbac6d2a949bbd8bc593a13fe97f8
+SHA256: 6a932951c9be01fc9ab843855ada5b826e4b011f2d73c39328fc03ff5398c619
+SHA384: f86685c7f0108528f9e0ad47c1d51e91321a6b97648a1c6da51674b70de413c2cb65dc36a83b8fa8c6b0b26b4c234d57
+SHA512: 522505480c78ec715f1592d708849c2d34f6b6ef83b9736932d76154e7a0b84f01aeba87574230421932927b2ecf7c3aad65bf9a18a133da4d0f24c32bef07a3
+Description: Test widget :)
+Name: Test Widget
+Author: ShadowStonk
+Depiction: nil
