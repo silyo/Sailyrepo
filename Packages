@@ -4,15 +4,15 @@ Section: Utilities
 Maintainer: ShadowStonk
 Depends: firmware (>11.0)
 Architecture: iphoneos-arm
-Filename: /debs/SailyInstaller.deb
+Filename: /debs/
 Size: 40031710
 MD5sum: 0d559ce16e77946d30808cfdfebcd375
 SHA1: 48eb175a2889d54359530146bc5c7d2950a25e4b
 SHA256: 3d17ec4991a926e52ae7141d7d41993e57a3581fbca4d5f0fcdc631fa165cdbe
 SHA384: ce73bca91489994be02cca1a332cfd1056fbba9f77030a1bfae59d6d6cd5e5b16a229b467e2bacfeb13bcadcba51df7c
 SHA512: 53aa54bf68264959d26491dffabb7923d44bd97b6fd790d698618f9defec12c30aa4e223d417eca8cdb4cf98840d5fc66f0553bc0a2f2706096787cebdefd401
-Description: Saily Package Manager Installer. USE AT OWN RISK THIS IS AN EARLY RELEASE YOU HAVE BEEN WARNED
-Name: Saily Installer (Early Release)
+Description: nothing
+Name: Temp taken down
 Author: ShadowStonk
 Depiction: nil
 
