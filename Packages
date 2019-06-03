@@ -3,7 +3,7 @@ Version: 0.1.6
 Architecture: iphoneos-arm
 Icon: file://CydiaIcon.png/
 Maintainer: ShadowStonk
-Filename: /debs/com.ShadowStonk.jw.SailyInstaller_0.1.6_iphoneos-arm.deb
+Filename: file://debs/com.ShadowStonk.jw.SailyInstaller_0.1.6_iphoneos-arm.deb
 Size: 40502864
 MD5sum: d616b372a158488d6ccb059efacd7c86
 SHA1: 270798c830bcdd6a45a07a653753648ed3e03d91
