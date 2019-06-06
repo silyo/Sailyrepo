@@ -1,17 +1,28 @@
-Package: com.ShadowStonk.jw.SailyInstaller
-Version: 0.1.6
+Package: com.supermamon.newpackage
+Version: 2.0.0-1
+Section: Tweaks
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
-Icon: https://raw.githubusercontent.com/silyo/Sailyrepo/master/CydiaIcon.png/
-Maintainer: ShadowStonk <irongolem2006@gmail.com>
-Filename: file://debs/SailyInstaller.deb/
-Size: 40502864
-MD5sum: d616b372a158488d6ccb059efacd7c86
-SHA1: 270798c830bcdd6a45a07a653753648ed3e03d91
-SHA256: b412526b6ac6cac8b674c41e7653d9846321af663d8d68b27c212e29125ee9b6
-Section: Applications
-Description: Saily Package Manager Installer. USE AT OWN RISK THIS IS AN EARLY RELEASE YOU HAVE BEEN WARNED
-SileoDepiction: file://sileodepctions/com.ShadowStonk.jw.SailyInstaller/Depiction.json/
-Depiction: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py or Manually Entered if Not In Tweaks `control` file.
-Installed-Size: 40534016
-Name: Saily Installer (Early Release)
-Priority: High
+Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
+Size: 854
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: This is a sample new package. Firmware should be greater than 7.0
+Name: New Package
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+
+Package: com.supermamon.oldpackage
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (<7.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
+Size: 860
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+Description: This is a sample old package. Firmware should be lower than 7.0
+Name: Old Package
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+
