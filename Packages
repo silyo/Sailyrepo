@@ -1,28 +1,16 @@
-Package: com.supermamon.newpackage
-Version: 2.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Package: com.ShadowStonk.jw.SailyInstaller
+Version: 0.1.6
+Section: Applications
+Maintainer: ShadowStonk <irongolem2006@gmail.com>
+Depends: firmware (>11.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Filename: ./debs/SailyInstaller.deb
+Size: 40517632
+MD5sum: d616b372a158488d6ccb059efacd7c86
+SHA1: 270798c830bcdd6a45a07a653753648ed3e03d91
+SHA256: b412526b6ac6cac8b674c41e7653d9846321af663d8d68b27c212e29125ee9b6
+SHA384: a569d34e83db31bce13fa261d9f693da00b54bd856a5bd263c231218bb2b3b0ade3b4719aa4499847e25a2eda157f682
 Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
-Author: Reposi3 <reposithree@gmail.com>
+Name: Saily Installer (Early Release)
+Author: ShadowStonk <irongolem2006@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
-
-Package: com.supermamon.oldpackage
-Version: 1.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
-Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
-
