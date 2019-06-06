@@ -1,8 +1,8 @@
-Origin: Saily Repo (Early Release)
-Label: Saily Repo (Early Release)
+Origin: Saily Installer Repo
+Label: Saily Installer Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Saily Repo (Early Release)
+Description: Saily Installer Repo
