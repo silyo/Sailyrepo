@@ -1,10 +1,10 @@
 {
   "class": "FeaturedBannersView",
-  "itemSize": "{296, 148}",
+  "itemSize": "{1152, 576}",
   "itemCornerRadius": 10,
   "banners": [
     {
-        "url": "https://raw.githubusercontent.com/silyo/Sailyrepo/master/image0.jpg",
+        "url": "https://raw.githubusercontent.com/silyo/Sailyrepo/master/Assest/Banners/RepoHeader.png",
         "title": "Saily Installer",
         "package": "com.ShadowStonk.jw.SailyInstaller",
         "hideShadow": false
