@@ -5,7 +5,7 @@ Maintainer: ShadowStonk <irongolem2006@gmail.com>
 Depends: firmware (>11.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/SailyInstaller.deb
-Size: 40502864
+Size: 40517632
 Icon: https://raw.githubusercontent.com/silyo/Sailyrepo/master/CydiaIcon.png
 MD5sum: d616b372a158488d6ccb059efacd7c86
 SHA1: 270798c830bcdd6a45a07a653753648ed3e03d91
