@@ -6,11 +6,12 @@ Depends: firmware (>11.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/SailyInstaller.deb
 Size: 40517632
+Icon: https://raw.githubusercontent.com/silyo/Sailyrepo/master/CydiaIcon.png
 MD5sum: d616b372a158488d6ccb059efacd7c86
 SHA1: 270798c830bcdd6a45a07a653753648ed3e03d91
 SHA256: b412526b6ac6cac8b674c41e7653d9846321af663d8d68b27c212e29125ee9b6
 SHA384: a569d34e83db31bce13fa261d9f693da00b54bd856a5bd263c231218bb2b3b0ade3b4719aa4499847e25a2eda157f682
-Description: This is a sample new package. Firmware should be greater than 7.0
+Description: Saily Installer
 Name: Saily Installer (Early Release)
 Author: ShadowStonk <irongolem2006@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+Depiction: https://silyo.github.io/Sailyrepo/depictions/?p=com.ShadowStonk.jw.SailyInstaller
