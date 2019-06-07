@@ -4,10 +4,10 @@ Section: Applications
 Maintainer: ShadowStonk <irongolem2006@gmail.com>
 Depends: firmware (>11.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: file://debs/test.deb
+Filename: ./debs/test.deb
 Size: 40058880
 Icon: https://raw.githubusercontent.com/silyo/Sailyrepo/master/CydiaIcon.png
-Icon: file://CydiaIcon.png
+Icon: ./CydiaIcon.png
 MD5sum: 3da04ed4b8fde0b2fbbb091dea1ded74
 SHA1: 3d3d13c9ae24c56c00684fb90d989d8ed215f38e
 SHA256: 8aac29f35e392d9b10fd8d8a0652b6363186b7bff2253050b91fc457b7bba984
