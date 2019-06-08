@@ -1,17 +1,16 @@
 Package: com.ShadowStonk.jw.SailyInstaller
-Version: 0.1.6-1
+Version: 0.1.7
 Section: Applications
-Maintainer: ShadowStonk <irongolem2006@gmail.com>
+Maintainer: Deleted forever
 Depends: firmware (>11.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/test.deb
-Size: 40031710
-Icon: https://raw.githubusercontent.com/silyo/Sailyrepo/master/CydiaIcon.png
-Icon: ./CydiaIcon.png
-MD5sum: 3da04ed4b8fde0b2fbbb091dea1ded74
-SHA1: 3d3d13c9ae24c56c00684fb90d989d8ed215f38e
-SHA256: 8aac29f35e392d9b10fd8d8a0652b6363186b7bff2253050b91fc457b7bba984
-Description: Saily Installer
-Name: Saily Installer (Early Release)
+Filename: ./debs/SailyInstaller.deb
+Size: 40582208
+Icon: nil
+MD5sum: 0c70d20a37fcddb01c2d4ab66722efd6
+SHA1: ef50fa94e6309b9042e176e54ae53a3409245f6a
+SHA256: 0631b380485f5361c64061f2775c0c5a70bf4637deadaa28a412558b6ae71f5e
+Description: Deleted forever
+Name: Deleted forever
 Author: ShadowStonk <irongolem2006@gmail.com>
-Depiction: https://silyo.github.io/Sailyrepo/depictions/?p=com.ShadowStonk.jw.SailyInstaller
+Depiction: nil
